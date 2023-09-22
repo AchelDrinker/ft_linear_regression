@@ -77,4 +77,4 @@ Matplotlib User Guide : [Documentation](https://matplotlib.org/stable/users/inde
 
 Introduction à la Régression Linéaire : [Tutoriel](https://www.youtube.com/playlist?list=PLO_fdPEVlfKqUF5BPKjGSh7aV9aBshrpY)
 
-Cours de Machine Learning : [Cours](https://github.com/AchelDrinker/ft_linear_regression/blob/b7bed1a2e93af3d0f90375b98e79e193e2c02f8b/Apprendre_le_ML_en_une_semaine.pdf)https://github.com/AchelDrinker/ft_linear_regression/blob/b7bed1a2e93af3d0f90375b98e79e193e2c02f8b/Apprendre_le_ML_en_une_semaine.pdf
+Cours de Machine Learning : [Cours](https://github.com/AchelDrinker/ft_linear_regression/blob/b7bed1a2e93af3d0f90375b98e79e193e2c02f8b/Apprendre_le_ML_en_une_semaine.pdf)
