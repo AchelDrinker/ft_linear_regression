@@ -1,4 +1,6 @@
-# 📊 Simple Linear Regression in Python
+# 📊 ft_linear_regression
+
+Evaluation : 
 
 ## 📝 Description
 
